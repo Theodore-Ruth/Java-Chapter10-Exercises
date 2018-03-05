@@ -1,0 +1,12 @@
+//Theodore Ruth - Java Chapter 10 - Exercise 1
+1. 
+Main(x = 5, blank = a)
+Riddle(x = 7, p = a)
+a(x = 1, y = 2)
+
+2. The program outputs:
+12
+1
+2
+
+3. Blank is mutable because it's attributes can be changed, they aren't changed in this program however.
